@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1585257476 source:c:\users\emily\desktop\uni\labs\s2lab2\main.cpp
+	"Person1.h"
+
+1585257735 c:\users\emily\desktop\uni\labs\s2lab2\person1.h
+	<string>
+	<iostream>
+
+1585257977 source:c:\users\emily\desktop\uni\labs\s2lab2\person1.cpp
+	"Person1.h"
+
